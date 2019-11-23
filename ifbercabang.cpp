@@ -19,3 +19,4 @@ int main(){
 			}else if (angka>=0){
 		cout<< "nilai=E "<<endl;
 	}
+}
